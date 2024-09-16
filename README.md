@@ -2,7 +2,7 @@
 
 Meu nome é Evellin Santos
 
-- Estou estudando na alura
+- Estou estudando na [ALURA](https://www.alura.com.b)
 - Estou me desenvolvendo na linguagem JavaScript
 - utilizo esse espaço para organização e compartilhamento dos meus projetos desenvolvidos
 
@@ -11,6 +11,6 @@ Meu nome é Evellin Santos
   0000116437378xSP@Al.educacao.sp.com
 
   @EvySantxs
-
-![](https://media1.tenor.com/m/K4XT3oqu3uYAAAAd/naruto-naruto-shippuden.gif)
+  
+![](https://media1.tenor.com/m/K4XT3oqu3uYAAAAd/naruto-naruto-shippuden.gif) 
   
